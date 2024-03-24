@@ -88,3 +88,9 @@ Finally we have the `deleteTask(index)` function. This function will be called w
 3. **Commit your changes: `git commit -m 'Add new feature'`** (Confirme suas alterações)
 4. **Upload to remote repository: `git push origin minha-feature`** (Envie para o repositório remoto)
 5. **Open a pull request** (Abra uma solicitação pull)
+
+## License
+
+This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for more details.
+
+(Este projeto está licenciado sob a licença MIT - consulte o arquivo <a href="LICENSE.md">LICENSE.md</a> para obter mais detalhes.)
